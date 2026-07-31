@@ -86,8 +86,9 @@ useful for testing timed dwell interactions specifically).
 
 ## Hosting
 
-**Cloudflare Pages** — static hosting, generous free tier, global edge
-caching (matters for the STT model file fetched on first load).
+**Netlify** — static hosting with a generous free tier, global CDN caching
+(matters for the STT model file fetched on first load), and simple PWA
+deploy support.
 
 ## Package manager
 
