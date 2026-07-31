@@ -9,6 +9,12 @@
 node_modules/
 dist/
 build/
+dev-dist/
+
+# Test artifacts
+test-results/
+playwright-report/
+coverage/
 
 # Env
 .env
